@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=list
+comment0.target=void\ sort(java.lang.Comparable[])
+comment1.params=list\ startAt
+comment1.target=int\ indexOfSmallestElement(java.lang.Comparable[],\ int)
+comment2.params=list\ topIndex\ minIndex
+comment2.target=void\ swap(java.lang.Object[],\ int,\ int)
+comment3.params=list
+comment3.target=java.lang.Comparable\ getSmallestElement(java.lang.Comparable[])
+comment4.params=list
+comment4.target=java.lang.Comparable\ getLargestElement(java.lang.Comparable[])
+numComments=5
